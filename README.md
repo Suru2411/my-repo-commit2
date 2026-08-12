@@ -7,8 +7,6 @@ intro
 My clone repository personal repo
 
 
-qwedjqondilwflijefl
-
 wejwnknrrjijnliw
 
 
