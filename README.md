@@ -1,8 +1,6 @@
 # my-repo-commit2
 
 
-
-
 to the viewers kind atendtion to you 
 
 here you have nothing to see usefully so i recommend to work on instead 
