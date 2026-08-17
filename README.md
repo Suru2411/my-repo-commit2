@@ -10,7 +10,7 @@ and also good luck on what ever you are doing !!!!!!!
 
 Intro 
 
-## heading!!!!!!!!!!!!!1!!!!!!!!!!!
+## heading
 
 My clone repository personal repo
 
