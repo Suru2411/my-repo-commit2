@@ -13,8 +13,6 @@ Intro
 
 
 
-
-
 ## heading
 
 My clone repository personal repo
